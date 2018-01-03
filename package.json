@@ -1,27 +1,56 @@
 {
-    "version": "3.0.0",
+  "_args": [
+    [
+      "react-native-root-toast@1.2.0",
+      "/Users/petergartner/GSL/WORKS/OfficepoolsMobileApp"
+    ]
+  ],
+  "_from": "react-native-root-toast@1.2.0",
+  "_id": "react-native-root-toast@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-KDFbTZkWOAC6JhDPAhKpVmu50X4DBZEmOsReJ++EhOhaWoi5qJPbm2tLwrGOY6bUcA1T53YsbY0FricSZW7Phg==",
+  "_location": "/react-native-root-toast",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-root-toast@1.2.0",
     "name": "react-native-root-toast",
-    "description": "react native toast like component, pure javascript solution",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/magicismight/react-native-root-toast"
-    },
-    "license": "MIT",
-    "main": "./index.js",
-    "keywords": [
-        "react-component",
-        "react-native",
-        "ios",
-        "android",
-        "image",
-        "video",
-        "focus"
-    ],
-    "dependencies": {
-        "react-native-root-siblings": "^3.0.0",
-        "prop-types": "^15.5.10"
-    },
-    "peerDependencies": {
-        "react-native": ">=0.47.0"
-    }
+    "escapedName": "react-native-root-toast",
+    "rawSpec": "1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "1.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-root-toast/-/react-native-root-toast-1.2.0.tgz",
+  "_spec": "1.2.0",
+  "_where": "/Users/petergartner/GSL/WORKS/OfficepoolsMobileApp",
+  "bugs": {
+    "url": "https://github.com/magicismight/react-native-root-toast/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native-root-siblings": "^1.2.1"
+  },
+  "description": "react native toast like component, pure javascript solution",
+  "homepage": "https://github.com/magicismight/react-native-root-toast#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "image",
+    "video",
+    "focus"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "react-native-root-toast",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicismight/react-native-root-toast.git"
+  },
+  "version": "1.2.0"
 }
